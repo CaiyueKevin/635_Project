@@ -1,6 +1,6 @@
 # 635_Project Proposal 
 ## Group detail:
-Course Name: E&C-ENG 535:635 (157437) FA24  
+__Course Name:__ E&C-ENG 535:635 (157437) FA24  
 Instructor: Fatima Anwar  
 Group Member: HAN GAO, CAIYUE CHEN  
 Project: Federated Learning on Multimodal Sensor Data  
