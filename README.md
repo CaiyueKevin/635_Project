@@ -8,10 +8,11 @@ __DATE:__ 28/09/2024
 
 ## Motivation
 
-Goal: Understand and benchmark different multimodal datasets in a federated setting
+## Project Details
+__Goal:__ Understand and benchmark different multimodal datasets in a federated setting
 
-Deliverables:
-• Understand multimodal federated learning 
-• Use given datasets to reproduce the results in the paper
-• Perform a per-class accuracy analysis of the results and observe the effect of skewed data distribution on the per-class accuracy
-• Evaluate the system on a multimodal dataset that is relatively balanced in class distribution
+__Deliverables:__  
+• Understand multimodal federated learning  
+• Use given datasets to reproduce the results in the paper  
+• Perform a per-class accuracy analysis of the results and observe the effect of skewed data distribution on the per-class accuracy  
+• Evaluate the system on a multimodal dataset that is relatively balanced in class distribution  
