@@ -29,10 +29,13 @@ __Team members' responsibilities:__
 Based on the available data, the group members will collaborate to conduct research on Federated Learning. We plan to start by studying the concept and basic runtime logic of Federated Learning, and then further search for existing research papers to share and discuss the knowledge we've gained. After gaining a comprehensive understanding of Federated Learning, we will delve into studying the code, combining it with theory to explore the principles and runtime logic of deep learning code. The research on each functional block will be discussed and reasonably allocated. Finally, we will work together to complete the report based on the acquired knowledge. Throughout the process, the tasks for each member will be reasonably assigned according to their actual learning progress.  
 
 __project timeline (Temporary):__  
-1. Conduct research on Federated Learning                 01/10 - 15/10
-2. Combine theory to learn the code                       15/10 - 31/10
-3. Run, debug the program, and analyze the results        01/11 - 30/11
-4. Further study, summarize and write the report         01/12 - End of semester  
+| Task                                                  | Time                    |
+|-------------------------------------------------------|-------------------------|
+| 1. Conduct research on Federated Learning             | 01/10 - 15/10           |
+| 2. Combine theory to learn the code                   | 15/10 - 31/10           |
+| 3. Run, debug the program, and analyze the results    | 01/11 - 30/11           |
+| 4. Further study, summarize and write the report      | 01/12 - End of semester |
+
 
 ## Reference  
 
