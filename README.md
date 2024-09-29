@@ -46,6 +46,9 @@ __Project Timeline (Temporary):__
 
 4. ["Federated Learning."](https://en.wikipedia.org/wiki/Federated_learning) Wikipedia, Wikimedia Foundation, 25 Sept. 2024.
 
+5. [Multimodal Federated Learning on IOT Data](https://pure-research.york.ac.uk/ws/portalfiles/portal/79047763/2109.04833v2.pdf)
+
+6. [Communication-Efficient Learning of Deep Networks from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)
 
 
 
