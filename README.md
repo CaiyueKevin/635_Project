@@ -20,14 +20,18 @@ __Deliverables:__
 • Evaluate the system on a multimodal dataset that is relatively balanced in class distribution  
 
 __System blocks:__  
-
+a
 __HW/SW requirements:__  Python, Laptop with CUDA-enabled GPU, PC with CUDA-enabled GPU  
 
 __Team members' responsibilities:__  
-
+a
 __project timeline:__  
+1. a
+2. a
+3. a
+4. a
+## Reference
 
-## Project Details 
 
 
 
