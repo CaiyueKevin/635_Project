@@ -28,7 +28,7 @@ Python, Laptop with CUDA-enabled GPU, PC with CUDA-enabled GPU
 __Team members' responsibilities:__  
 Based on the available data, the group members will collaborate to conduct research on Federated Learning. We plan to start by studying the concept and basic runtime logic of Federated Learning, and then further search for existing research papers to share and discuss the knowledge we've gained. After gaining a comprehensive understanding of Federated Learning, we will delve into studying the code, combining it with theory to explore the principles and runtime logic of deep learning code. The research on each functional block will be discussed and reasonably allocated. Finally, we will work together to complete the report based on the acquired knowledge. Throughout the process, the tasks for each member will be reasonably assigned according to their actual learning progress.  
 
-__project timeline (Temporary):__  
+__Project Timeline (Temporary):__  
 | Task                                                  | Time                    |
 |-------------------------------------------------------|-------------------------|
 | 1. Conduct research on Federated Learning             | 01/10 - 15/10           |
@@ -36,9 +36,15 @@ __project timeline (Temporary):__
 | 3. Run, debug the program, and analyze the results    | 01/11 - 30/11           |
 | 4. Further study, summarize and write the report      | 01/12 - End of semester |
 
+## References
 
-## Reference  
+1. Yu, Chenzhao. ["Multimodal Federated Learning on IoT Data."](https://github.com/yuchenzhao/iotdi22-mmfl) GitHub, 11 Sept. 2021.
 
+2. Zhao, Yuchen, et al. ["Multimodal Federated Learning on IOT Data."](https://arxiv.org/abs/2109.04833) arXiv.org, 18 Feb. 2022.
+
+3. Shastri, Yesha. ["A Step-by-Step Guide to Federated Learning in Computer Vision."](https://www.v7labs.com/blog/federated-learning-guide#:~:text=Federated%20learning%20(often%20referred%20to,model%20locally%2C%20increasing%20data%20privacy) V7, 3 Feb. 2023.
+
+4. ["Federated Learning."](https://en.wikipedia.org/wiki/Federated_learning) Wikipedia, Wikimedia Foundation, 25 Sept. 2024.
 
 
 
