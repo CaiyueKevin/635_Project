@@ -19,18 +19,21 @@ __Deliverables:__
 • Perform a per-class accuracy analysis of the results and observe the effect of skewed data distribution on the per-class accuracy  
 • Evaluate the system on a multimodal dataset that is relatively balanced in class distribution  
 
-__System blocks:__  
-a
-__HW/SW requirements:__  Python, Laptop with CUDA-enabled GPU, PC with CUDA-enabled GPU  
+__System blocks (Temporary):__
+Basic data, variable data, configuration files, training models, runtime logic, operation commands, and results.  
+
+__HW/SW requirements:__
+Python, Laptop with CUDA-enabled GPU, PC with CUDA-enabled GPU  
 
 __Team members' responsibilities:__  
 a
-__project timeline:__  
+__project timeline (Temporary):__  
 1. a
 2. a
 3. a
 4. a
-## Reference
+
+## Reference  
 
 
 
